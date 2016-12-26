@@ -1,2 +1,2 @@
 # my-first-repository
-try to get used to the github
+the readme of the first repository
